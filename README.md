@@ -1,5 +1,7 @@
 # [Full Stack Frameworks Issue Tracker Application](https://fullstack-issue-tracker.herokuapp.com/)
 
+![image](https://github.com/user-attachments/assets/7e5be6b8-f412-4171-8e64-584bab695d9f)
+
 [![Build Status](https://travis-ci.org/charlotteskinner90/django_milestone_issue_tracker.svg?branch=master)](https://travis-ci.org/charlotteskinner90/django_milestone_issue_tracker)
 
 I have created this issue tracker for the fictional software company Unicorne for the Full Stack Frameworks module of the Code Institute Full Stack Web Development diploma.
